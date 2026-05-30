@@ -2,7 +2,7 @@
 
 An intelligent personal task planning agent that perceives your goals, makes decisions, and creates actionable plans using LLM reasoning.
 
-🎥 **Demo Video**: [Watch 2-minute demo](YOUR_LOOM_VIDEO_LINK_HERE)
+🎥 **Demo Video**: [Watch 2-minute demo]https://www.loom.com/share/c4d8dbeaf15540f1babc6eeb1e8cc2e8
 
 🔗 **GitHub**: https://github.com/Gage520/task-planning-agent
 
